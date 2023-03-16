@@ -4,7 +4,7 @@
 title = En-Study
 
 # (str) Package name
-package.name = En-study
+package.name = enstudy
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.wiseplat
